@@ -4,7 +4,7 @@ public class OOPSBannerUC4 {
         // Step 1: Create String array for 7 lines
         String[] banner = new String[7];
 
-        // Step 2: Populate array using String.join()
+       
         banner[0] = String.join(" ",
                 " ***** ", " ***** ", " ****** ", " ****** ");
 
@@ -29,6 +29,8 @@ public class OOPSBannerUC4 {
         // Step 3: Print using loop (Enhanced for loop)
         for (String line : banner) {
             System.out.println(line);
+
+            
         }
     }
 }
