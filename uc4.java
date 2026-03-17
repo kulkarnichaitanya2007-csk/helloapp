@@ -1,7 +1,7 @@
 public class OOPSBannerUC4 {
     public static void main(String[] args) {
 
-        // Step 1: Create String array for 7 lines
+        
         String[] banner = new String[7];
 
        
